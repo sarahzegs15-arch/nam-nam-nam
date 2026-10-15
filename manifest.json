@@ -1,0 +1,12 @@
+{
+  "name": "Ñam Ñam",
+  "short_name": "Ñam Ñam",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffd3e8",
+  "theme_color": "#ffd3e8",
+  "icons": [
+    { "src": "icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
